@@ -16,6 +16,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/-nlp-F05098?style=for-the-badge&logo=nlp&logoColor=white" />
+  <img alt="RPC" src="https://img.shields.io/badge/-rpc-F97898?style=for-the-badge&logo=rpc&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
