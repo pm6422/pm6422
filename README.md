@@ -5,7 +5,10 @@
 
 ### Things I code with
 ![](https://img.shields.io/badge/java-8.0-orange?style=for-the-badge&logo=java&logoColor=orange)
-![](https://img.shields.io/badge/angularjs-1.2-blue?style=for-the-badge&logo=angularjs&logoColor=blue)
+![](https://img.shields.io/badge/angularjs-1.2-orange?style=for-the-badge&logo=angularjs&logoColor=orange)
+![](https://img.shields.io/badge/docker?style=for-the-badge&logo=docker&logoColor=blue)
+![](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=green)
+![](https://img.shields.io/badge/NLP-blue?style=for-the-badge&logo=NLP&logoColor=blue)
 
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
