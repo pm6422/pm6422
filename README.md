@@ -1,6 +1,6 @@
-### 😎 Hey! Nice to see you.
+# 😎 Hey! Nice to see you.
 
-## Welcome to my page!
+### Welcome to my page!
 ### I'm louis, a Java developer from 🇨🇳China, working in Shanghai.
 
 ### Things I code with
