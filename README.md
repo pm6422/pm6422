@@ -1,7 +1,8 @@
 # 😎 Hey! Nice to see you.
 
 ### Welcome to my page!
-#### I'm louis, a Java developer from 🇨🇳China, working in Shanghai.
+#### I'm louis, a Java developer from 🇨🇳China, working in Shanghai. 
+#### I'm skilled in RPC(Remote Process Call) and have four years AI chatbot developing experience.
 
 ### Things I code with
 
