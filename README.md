@@ -1,4 +1,10 @@
-### Hi there 👋
+### 😎 Hey! Nice to see you.
+
+## Welcome to my page!
+### I'm louis, a Java developer from 🇨🇳China, working in Shanghai.
+
+### Things I code with
+![](https://img.shields.io/badge/python-3.9-orange)
 
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
