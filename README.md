@@ -1,8 +1,8 @@
 # 😎 Hey! Nice to see you.
 
 ### Welcome to my page!
-#### I'm louis, a Java developer from 🇨🇳China, working in Shanghai. 
-#### I'm skilled in RPC(Remote Process Call) and have four years AI chatbot developing experience.
+##### I'm louis, a Java developer from 🇨🇳China, working in Shanghai. 
+##### I'm skilled in RPC(Remote Process Call) and have four years AI chatbot developing experience.
 
 ### Things I code with
 
@@ -51,13 +51,13 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pm6422)
 
-
-### I'm looking for friends to join us on developing LUIX, please add my wechat account(pm6422) for more details.
-
 ### Shnaghai scenery
 ![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.jpg)
 ![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.jpg)
 ![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.jpg)
+
+
+##### I'm looking for friends to join us on developing LUIX, please add my wechat account(pm6422) for more details.
 
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
