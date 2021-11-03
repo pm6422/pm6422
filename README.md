@@ -54,6 +54,11 @@
 
 ### I'm looking for friends to join us on developing LUIX, please add my wechat account(pm6422) for more details.
 
+### Shnaghai scenery
+![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.jpg)
+![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.jpg)
+![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.jpg)
+
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
