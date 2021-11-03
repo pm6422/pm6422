@@ -49,7 +49,10 @@
   </tbody>
 </table>
 
-### Welcome friends to join us on developing LUIX, please add my wechat account(pm6422) for more details.
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pm6422)
+
+
+### I'm looking for friends to join us on developing LUIX, please add my wechat account(pm6422) for more details.
 
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,4 +70,3 @@ Here are some ideas to get you started:
 -->
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pm6422)
