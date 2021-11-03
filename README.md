@@ -51,7 +51,7 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pm6422)
 
-### Shnaghai scenery
+### Shnaghai beautiful scenery
 ![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.jpg)
 ![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.jpg)
 ![image](https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.jpg)
