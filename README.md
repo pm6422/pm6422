@@ -61,7 +61,7 @@
 
 ##### 📷 Above three photos are captured at East Nanjing road and Shanghai BVLGARI hotel.</p>
 
-##### 👬 I'm looking for friends to join us on developing LUIX which it is a RPC(Remote Procedure Call) system, please add my wechat(ID: pm6422) for more details.
+##### 🤩 I'm looking for friends to join us on developing LUIX which it is a RPC(Remote Procedure Call) system, please add my wechat(ID: pm6422) for more details.
 
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
