@@ -49,6 +49,8 @@
   </tbody>
 </table>
 
+### Welcome friends to join us on developing LUIX, please add my wechat account(pm6422) for more details.
+
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
