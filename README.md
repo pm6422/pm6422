@@ -52,7 +52,7 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pm6422)
 
 ### Shanghai scenery
-
+<p>Shanghai is a metropolis full of youth, combining modernity with classics, and there are many job opportunities. Welcome friends from all over the world to travel and work.</p>
 <p>
   <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.JPG" /> 
   <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.JPG" /> 
