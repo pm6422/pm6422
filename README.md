@@ -53,7 +53,11 @@
 
 ### Shanghai scenery
 
-<p><img width="200" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.JPG" /> <img width="200" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.JPG" /> <img width="200" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.JPG" /></p>
+<p>
+  <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.JPG" /> 
+  <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.JPG" /> 
+  <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.JPG" />
+</p>
 
 ##### I'm looking for friends to join us on developing LUIX which it is a RPC(Remote Procedure Call) system, please add my wechat account(pm6422) for more details.
 
