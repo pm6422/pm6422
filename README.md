@@ -54,7 +54,6 @@
 ### Shanghai scenery
 
 <p><img width="200" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.JPG" /> <img width="200" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.JPG" /> <img width="200" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.JPG" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 8°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>07:12</b> and sets at <b>15:50</b>.</p>
 
 ##### I'm looking for friends to join us on developing LUIX which it is a RPC(Remote Procedure Call) system, please add my wechat account(pm6422) for more details.
 
