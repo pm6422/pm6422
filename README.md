@@ -2,8 +2,7 @@
 
 ### Welcome to my page!
 ##### I'm louis, a Java developer from 🇨🇳China, working in Shanghai. 
-##### I'm skilled in RPC(Remote Procedure Call) and have four years chatbot developing experience. 
-##### 🤩 I'm looking for friends to join us on developing LUIX which it is an incubating RPC(Remote Procedure Call) system, please add my wechat(ID: pm6422) for more details.
+##### I'm skilled in RPC(Remote Procedure Call) and have four years chatbot developing experience. 🤩 I'm looking for friends to join us on developing LUIX which it is an incubating RPC(Remote Procedure Call) system, please add my wechat(ID: pm6422) for more details.
 
 ### Things I code with
 
