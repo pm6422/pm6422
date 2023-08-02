@@ -66,8 +66,6 @@
   <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.JPG" />
 </p>
 
-##### 📷 Above three photos are captured at East Nanjing road and Shanghai BVLGARI hotel.</p>
-
 <!--
 **pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
