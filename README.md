@@ -68,9 +68,9 @@
 ### Shanghai scenery
 ##### Shanghai is a metropolis full of youth, combining modernity with classics, and there are many job opportunities. Welcome friends from all over the world to travel and work.
 <p>
-  <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_01.JPG" /> 
-  <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_02.JPG" /> 
-  <img width="250" src="https://raw.githubusercontent.com/pm6422/passport/master/passport-server/images/IMG_03.JPG" />
+  <img width="250" src="https://raw.githubusercontent.com/pm6422/luix-passport/master/passport-server/images/IMG_01.JPG" /> 
+  <img width="250" src="https://raw.githubusercontent.com/pm6422/luix-passport/master/passport-server/images/IMG_02.JPG" /> 
+  <img width="250" src="https://raw.githubusercontent.com/pm6422/luix-passport/master/passport-server/images/IMG_03.JPG" />
 </p>
 
 <!--
