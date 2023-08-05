@@ -3,25 +3,23 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/pm6422/pm6422"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
     <a href="https://github.com/pm6422/pm6422/graphs/contributors"><img src="https://img.shields.io/github/contributors/pm6422/pm6422?color=blue"></a>
     <a href="https://github.com/pm6422/pm6422/stargazers"><img src="https://img.shields.io/github/stars/pm6422/pm6422.svg?logo=github"></a>
     <a href="https://github.com/pm6422/pm6422/network/members"><img src="https://img.shields.io/github/forks/pm6422/pm6422.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=pm6422.pm6422" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
 ![](./src/header_.png)
 
-##### I'm louis, a Java developer from 🇨🇳China, working in Shanghai. 
-##### I'm skilled in RPC(Remote Procedure Call) and have four years chatbot developing experience. 🤩 I'm looking for friends to join us on developing LUIX which it is an incubating RPC(Remote Procedure Call) system, please add my wechat(ID: pm6422) for more details.
+##### I'm louis, a developer from 🇨🇳China.
 
 ### Things I code with
-
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" />
