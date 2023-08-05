@@ -11,7 +11,7 @@
 <!--   my-header-img -->
 ![](./src/header_.png)
 
-#### I'm louis, a developer from 🇨🇳China.
+#### I'm louis, a developer from China🇨🇳.
 
 ### Things I code with
 <p>
@@ -94,10 +94,13 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pm6422"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
 
+---
+*If you liked my profile, you can Star ⭐ the repository and if you want to use this template you can Fork it and can use.*
+---
+Would you ike to meet me?
 
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas.
 
 ### Shanghai scenery
 ##### Shanghai is a metropolis full of youth, combining modernity with classics, and there are many job opportunities. Welcome friends from all over the world to travel and work.
