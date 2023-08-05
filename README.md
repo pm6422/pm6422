@@ -76,13 +76,13 @@
 </table>
 
 
-<!--   GitHub stats graph -->
+<!--   github stats graph -->
 ![Louis github stats](https://github-readme-stats.vercel.app/api?username=pm6422&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Louis github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pm6422&theme=radical&layout=compact)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pm6422"></img>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
