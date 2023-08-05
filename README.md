@@ -55,13 +55,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/pm6422/luix-passport"><b>LUIX Passport</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/pm6422/luix-commons"><b>LUIX Commons</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pm6422/luix-commons?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pm6422/luix-commons?style=flat-square&labelColor=343b41"/></td>
@@ -81,6 +74,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pm6422/luix-fraud-detection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pm6422/luix-fraud-detection?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pm6422/luix-fraud-detection?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/pm6422/luix-passport"><b>LUIX Passport</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pm6422/luix-passport?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
