@@ -4,10 +4,10 @@
 <p align="center">
     <a href="https://github.com/pm6422/pm6422"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
-    <a href="https://github.com/pm6422/pm6422/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/pm6422/pm6422/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/pm6422/pm6422/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/pm6422/pm6422/graphs/contributors"><img src="https://img.shields.io/github/contributors/pm6422/pm6422?color=blue"></a>
+    <a href="https://github.com/pm6422/pm6422/stargazers"><img src="https://img.shields.io/github/stars/pm6422/pm6422.svg?logo=github"></a>
+    <a href="https://github.com/pm6422/pm6422/network/members"><img src="https://img.shields.io/github/forks/pm6422/pm6422.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pm6422.pm6422" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
