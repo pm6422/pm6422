@@ -94,18 +94,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pm6422"></img>
 
-
-
-*If you liked my profile, you can Star ⭐ the repository and if you want to use this template you can Fork it and can use.*
----
-Would you like to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas.
-
-
-<!--
-**pm6422/pm6422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
