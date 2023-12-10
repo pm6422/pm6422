@@ -11,7 +11,7 @@
 <!--   my-header-img -->
 ![](./assets/header.png)
 
-#### I'm louis, a developer from China🇨🇳.
+#### I'm louis, a full stack developer.
 
 ### Things I code with
 <p>
