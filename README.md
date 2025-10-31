@@ -9,7 +9,7 @@
 </p>
 
 <!--   my-header-img -->
-![](./assets/header.png)
+![](./assets/images/header.png)
 
 #### I'm louis, a full stack developer.
 
